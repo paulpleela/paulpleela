@@ -4,8 +4,8 @@
 -  🏫 I’m a 3rd Year Software Engineering (Honours) student at UQ, graduating in June 2026
 -  🔭 I’m currently working on [Bookhives](https://bookhives.vercel.app), a book community platform
 - 🌱 I’m currently exploring Haskell and functional programming
-- 👨‍💻 All of my projects are available at [paulpleela.vercel.app](https://paulpleela.vercel.app)  
-- 📄 Learn more about my experiences and past internships: [Download my resume](https://drive.google.com/file/d/1PiJ-zIBMS6HJmcVOdVP2zXsk2yG1Lasc/view?usp=sharing)  
+- 📄 Learn more about my experiences and past internships on my [resume](https://drive.google.com/file/d/1PiJ-zIBMS6HJmcVOdVP2zXsk2yG1Lasc/view?usp=sharing)
+- ☀️ I'm actively looking for internship opportunities for Summer 2025/26
 - 📫 Reach me at paulpleela@gmail.com and connect with me on [LinkedIn](https://linkedin.com/in/paulpleela)
   
 <h3 align="left">Languages and Tools:</h3>
