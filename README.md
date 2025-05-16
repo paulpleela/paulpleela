@@ -1,17 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Paul</h1>  
 
--  🏫 I’m a 3rd Year Software Engineering (Honours) student at UQ  
+-  🏫 I’m a 3rd Year Software Engineering (Honours) student at UQ, graduating in June 2026
 -  🔭 I’m currently working on [Bookhives](https://bookhives.vercel.app), a book community platform
 - 🌱 I’m currently exploring Haskell and functional programming
 - 👨‍💻 All of my projects are available at [paulpleela.vercel.app](https://paulpleela.vercel.app)  
-- 📄 Learn more about my experiences, [download my resume](https://drive.google.com/file/d/1PiJ-zIBMS6HJmcVOdVP2zXsk2yG1Lasc/view?usp=sharing)  
-- 📫 Reach me at paulpleela@gmail.com  
--  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jnslcjw" height="15" width="22" /> Connect with me on [LinkedIn](https://linkedin.com/in/paulpleela)
+- 📄 Learn more about my experiences and past internships: [Download my resume](https://drive.google.com/file/d/1PiJ-zIBMS6HJmcVOdVP2zXsk2yG1Lasc/view?usp=sharing)  
+- 📫 Reach me at paulpleela@gmail.com and connect with me on [LinkedIn](https://linkedin.com/in/paulpleela)
   
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulpleela&show_icons=true&locale=en&layout=compact" alt="paulpleela" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpleela&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="paulpleela" /></p>
 
 
 <h4>📚 Programming Languages</h4>
